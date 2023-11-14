@@ -1,0 +1,64 @@
+.property-image {
+    width: 321.800px;
+    height: 305.700px;
+    margin-bottom: 7px;
+    border-radius: 14px;
+}
+
+.property-info-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+}
+
+.property-location {
+    margin-top: 0;
+    margin-bottom: 0;
+    font-family: Nunito Sans, Arial;
+    font-weight: 700;
+    font-size: 16px;
+}
+
+.property-location span {
+    font-weight: 400;
+    align-items: left;
+    float: right;
+}
+
+.property-distance {
+    margin-top: 0;
+    margin-bottom: 0;
+    font-family: Nunito Sans, Arial;
+    font-size: 15px;
+    font-weight: 500;
+    color: #717171;
+}
+
+.property-date {
+    margin-top: 0;
+    margin-bottom: 0;
+    font-family: Nunito Sans, Arial;
+    font-size: 15px;
+    font-weight: 500;
+    color: #717171;
+}
+
+.property-price {
+    margin-top: 7px;
+    margin-bottom: 0;
+    font-family: Nunito Sans, Arial;
+    font-size: 15px;
+}
+
+.property-price span {
+    font-weight: 700;
+    font-family: Nunito Sans, Arial;
+}
+
+.property-grid {
+    width: 321.800px;
+    height: 305.700px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    column-gap: 22px;
+    row-gap: 44px;
+}
