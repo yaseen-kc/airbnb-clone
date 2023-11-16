@@ -101,7 +101,7 @@
     cursor: pointer;
 }
 
-.airbnb{
+.airbnb {
     padding-top: 14px;
     font-family: Nunito Sans, Arial;
     text-decoration: none;
@@ -113,12 +113,12 @@
     height: 16px;
 }
 
-.hamburger{
+.hamburger {
     height: 16px;
     width: 16px;
 }
 
-.account{
+.account {
     width: 30px;
     height: 30px;
     margin-left: 12px;
