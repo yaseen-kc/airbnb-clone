@@ -4,7 +4,7 @@
 
 This project is an Airbnb clone built using HTML and CSS. The goal is to recreate the basic layout and styling of the Airbnb website, providing a practical exercise for HTML and CSS enthusiasts to enhance their skills.
 
-<img src="./images/screen.png" />
+<img src="./images/Readme.png"/>
 
 ## Features
 
